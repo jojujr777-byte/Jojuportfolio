@@ -9,8 +9,6 @@ HOW TO ADD YOUR IMAGES
 2. PROJECT THUMBNAIL IMAGES (optional — shown as video poster frames)
    Save these files in this folder (assets/images/):
    - gearup-thumb.jpg        → thumbnail for Gear Up project video
-   - farmers-thumb.jpg       → thumbnail for Farmers Portal project video
-   - portfolio-thumb.jpg     → thumbnail for Portfolio project video
 
 3. CERTIFICATE IMAGES
    Save your certificate images in the certs/ sub-folder (assets/images/certs/):
